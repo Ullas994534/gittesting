@@ -1,3 +1,6 @@
 Hello Text file for testing purpose.
 
-Code updated during recovery by cloning the git repo named as gittesting.
+As per scenario this is the code to deploy the application without any issue in - UAT-DEV-TEST and Prod Enviornment. 
+
+Thanks 
+Ullas Bandi
